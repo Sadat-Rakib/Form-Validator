@@ -13,8 +13,8 @@ A simple and responsive **Form Validator** built using **HTML, CSS, and JavaScri
 ✔️ Fully responsive design 📱  
 
 ## 📸 Screenshot
-![Form Validator Preview](![image](https://github.com/user-attachments/assets/65caa125-3f89-4ada-ab62-7eca1282b398)
-)
+(![image](https://github.com/user-attachments/assets/65caa125-3f89-4ada-ab62-7eca1282b398)
+
 
 ## 🛠 Technologies Used
 - ⚡ **HTML** - Structure of the form  
